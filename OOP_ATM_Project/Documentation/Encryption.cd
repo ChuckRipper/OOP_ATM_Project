@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOP_ATM_Project.Encryption.MD5.MD5">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AQBQAAgEAAAAAAABQAAAAAEAAAAAAAAAAAAAGAAAAiA=</HashCode>
+      <FileName>Encryption\MD5\MD5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Encryption.Twofish.TwofishImplementation">
+    <Position X="9" Y="0.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AIAKAAgAACkAAAIgTADEgUAAMICAAgxAAAABBDaAIAA=</HashCode>
+      <FileName>Encryption\Twofish\TwofishImplementation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOP_ATM_Project.Encryption.Twofish.TwofishManaged">
+    <Position X="15.75" Y="0.5" Width="8" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIABACAAAAAAAAABAAAQAAAAAAIAAAAABAA=</HashCode>
+      <FileName>Encryption\Twofish\TwofishManaged.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Encryption.Twofish.TwofishManagedTransform">
+    <Position X="24.25" Y="0.5" Width="9" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Encryption.Twofish.TwofishManagedTransform.TwofishManagedTransformMode">
+        <TypeIdentifier>
+          <NewMemberFileName>Encryption\Twofish\TwofishManagedTransform.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAACgAAACAAAAAAAABAQAAAEABAAAIAAAAAEAAEAAA=</HashCode>
+      <FileName>Encryption\Twofish\TwofishManagedTransform.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="OOP_ATM_Project.Encryption.Twofish.DWord">
+    <Position X="5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAYAAIAUAAAAIAgKEAAgAgAAAAAAA=</HashCode>
+      <FileName>Encryption\Twofish\DWord.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
