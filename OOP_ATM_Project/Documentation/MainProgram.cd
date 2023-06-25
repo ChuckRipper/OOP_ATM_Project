@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOP_ATM_Project.Program">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Controllers.ATMController">
+    <Position X="3.25" Y="0.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AABACBBAIAZARsyAACEEgAAAhADAKAAEBBEAAABNEAA=</HashCode>
+      <FileName>Controllers\ATMController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

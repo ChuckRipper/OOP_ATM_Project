@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOP_ATM_Project.Enums.AccountStatus">
+    <Position X="0.5" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.AccountStatus.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\AccountStatus.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\AccountStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Enums.ATMFunctionality">
+    <Position X="2.75" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.ATMFunctionality.Functionality">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\ATMFunctionality.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ATMFunctionality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Enums.ATMStatus">
+    <Position X="5" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.ATMStatus.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\ATMStatus.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ATMStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Enums.CardStatus">
+    <Position X="7.25" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.CardStatus.Status">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\CardStatus.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\CardStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Enums.CustomerGender">
+    <Position X="9.5" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.CustomerGender.Gender">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\CustomerGender.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\CustomerGender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Enums.LogLevel">
+    <Position X="11.75" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.LogLevel.Level">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\LogLevel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\LogLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_ATM_Project.Enums.TransactionType">
+    <Position X="14" Y="2.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OOP_ATM_Project.Enums.TransactionType.Type">
+        <TypeIdentifier>
+          <NewMemberFileName>Enums\TransactionType.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\TransactionType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
